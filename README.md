@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://lazarev-web.ru/upload/iblock/eed/wordpress-maintenance%20%281%29.gif" style="width: 30%" />
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/860610936970035491/D79FACBBBD36CC6164370B7D690616D6D2DDC4D2/?imw=512&amp;imh=270&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" style="width: 50%" />
 </div>  
 
 <div align="center">
